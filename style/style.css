@@ -77,14 +77,51 @@ main {
 .about {
   background: #fff8f3;
   border-radius: 10px;
-  padding: 130px 150px;
+  padding: 130px 150px 50px;
 }
 .section-title {
-    text-align: center;
-    margin-bottom: 30px;
+  text-align: center;
+  margin-bottom: 30px;
 }
 .section-description {
-    font-size: 18px;
-    text-align: center;
-    color: #757575;
+  font-size: 18px;
+  text-align: center;
+  color: #757575;
+}
+.info {
+  background: #fff8f3;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  align-items: center;
+  margin: auto;
+  padding: 0px 150px;
+}
+.thdata {
+  width: 50px;
+  /* border: 1px solid gray; */
+  /* padding: 0 50px 0 0; */
+  width: 200px;
+  text-align: center;
+}
+.tbdata {
+  text-align: center;
+  /* border: 1px solid gray; */
+}
+.table {
+}
+
+/* what i do */
+
+.wid {
+  margin-top: 130px;
+  font-weight: 700;
+  font-size: 35px;
+  color: #181818;
+  text-align: center;
+}
+.wid-description {
+  margin: 30px 100px 0;
+  font-weight: 400;
+  font-size: 18px;
+  color: #757575;
 }
