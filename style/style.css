@@ -125,3 +125,34 @@ main {
   font-size: 18px;
   color: #757575;
 }
+
+/* Skill Section */
+.skill {
+  margin-top: 50px;
+  display: flex;
+  gap: 24px;
+}
+.skill-head {
+  margin-top: 30px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #181818;
+}
+
+.skill-paragraph {
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
+.skill-shadow {
+  background: #ffffff;
+  box-shadow: 0px 6px 50px;
+  border-radius: 5px;
+  padding: 30px;
+}
+
+/* summary part */
+.summary-header{
+    
+}
