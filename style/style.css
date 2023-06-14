@@ -153,6 +153,10 @@ main {
 }
 
 /* summary part */
-.summary-header{
-    
+.summary-header {
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: #181818;
+  margin-top: 130px;
 }
