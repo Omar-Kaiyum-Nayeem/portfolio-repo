@@ -152,11 +152,46 @@ main {
   padding: 30px;
 }
 
-/* summary part */
+/* summary of resume part */
 .summary-header {
   font-weight: 700;
   font-size: 35px;
   text-align: center;
   color: #181818;
   margin-top: 130px;
+  margin-bottom: 130px;
+}
+
+.edu-header {
+  font-weight: 700;
+  font-size: 30px;
+  color: #474747;
+  margin-bottom: 30px;
+}
+
+.edu-title {
+  font-weight: 700;
+  font-size: 25px;
+  color: #474747;
+  margin-bottom: 10px;
+}
+
+.organization {
+  font-weight: 600;
+  font-size: 20px;
+  color: #757575;
+  margin-bottom: 20px;
+}
+
+.org-description {
+  font-weight: 400;
+  font-size: 16px;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.summary-flex{
+  display: flex;
+  justify-content: space-between;
 }
