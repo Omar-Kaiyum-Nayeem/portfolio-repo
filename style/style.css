@@ -21,6 +21,8 @@
   background-repeat: no-repeat;
   background-position: bottom right, left;
   background-position-x: 85%, left;
+  background-position-y: 52%;
+  height: 800px;
 }
 nav {
   display: flex;
